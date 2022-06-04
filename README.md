@@ -19,7 +19,7 @@ Backend Development (The Spring famliy that you know)
 
 Windows Application Development (Only familiar with Winform but that's enough for me)
 
-Android Development (Not a expert, but have experience for develop an app for 800+ users by myself)
+Android Development (Not an expert, but have experience for develop an app for 800+ users by myself)
 
 Insurance Software Development (Sounds wired, but that was my one year-job experience)
 
